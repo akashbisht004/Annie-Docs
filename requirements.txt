@@ -3,8 +3,8 @@
 # by the following command:
 #
 #    pip-compile requirements.in
-click==8.2.1; python_version >= "3.10"
-click==8.1.7; python_version < "3.10"
+#
+click==8.2.1
     # via mkdocs
 ghp-import==2.1.0
     # via mkdocs
@@ -44,6 +44,3 @@ six==1.17.0
     # via python-dateutil
 watchdog==6.0.0
     # via mkdocs
-pymdown-extensions
-
-mkdocs-material
