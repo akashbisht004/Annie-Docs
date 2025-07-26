@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://annie-docs.netlify.app/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>https://annie-docs.netlify.app/concurrency/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>https://annie-docs.netlify.app/contributing/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>https://annie-docs.netlify.app/examples/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>https://annie-docs.netlify.app/filtering/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>https://annie-docs.netlify.app/api/ann_index/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>https://annie-docs.netlify.app/api/hnsw_index/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
     <url>
          <loc>https://annie-docs.netlify.app/api/threadsafe_index/</loc>
-         <lastmod>2025-07-25</lastmod>
+         <lastmod>2025-07-26</lastmod>
     </url>
 </urlset>
