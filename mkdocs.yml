@@ -50,6 +50,9 @@ nav:
     - AnnIndex: api/ann_index.md
     - PyHnswIndex: api/hnsw_index.md
     - ThreadSafeAnnIndex: api/threadsafe_index.md
+    - Python API:
+        - rust_annie: api/python/rust_annie/index.html
+
   - Features:
     - Concurrency: concurrency.md
     - Filtered Search: filtering.md
